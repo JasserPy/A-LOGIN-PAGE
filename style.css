@@ -163,7 +163,6 @@ z-index: 2;
     transition: all 0.6s ease-in-out;
 }
 
-
 .toggle-left {
     transform:translateX(-200%);
 }
